@@ -4,7 +4,7 @@
 
 根据难易程度分为“凡体”、“筑根”、“心转手”、“上层”四个等级
 
-参考自“立石-成为麻将的强者”→ https://www.lsmj.xyz，此网站现已失效
+参考自“立石-成为麻将的强者”→ https://www.lsmj.xyz （此网站现已失效）
 
 ## 目录
 
@@ -15,6 +15,6 @@
 
 ## 一、凡体
 
-### 《79博客》（https://www.bilibili.com/read/readlist/rl45758）
+### [《79博客》](https://www.bilibili.com/read/readlist/rl45758)
 
 简介：日麻圣经
